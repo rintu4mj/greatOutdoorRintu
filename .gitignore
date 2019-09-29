@@ -1,0 +1,11 @@
+*.class
+*.MF
+\target\
+*.class
+target\classes\META-INF\MANIFEST.MF
+target\classes\com\capgemini\go\service\GoAdminService.class
+target\classes\com\capgemini\go\dao\QuerryMapper.class
+target\classes\com\capgemini\go\bean\RetailerInventoryBean.class
+logs\app.log
+target\classes\com\capgemini\go\dao\RetailerDao.class
+target\classes\com\capgemini\go\dao\RetailerDaoImpl.class

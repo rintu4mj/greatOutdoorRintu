@@ -1,0 +1,317 @@
+2019-09-28 09:44:58,502 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 09:46:29,559 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 09:47:04,227 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 09:47:04,237 ERROR c.c.g.s.UserServiceImpl [main] Please Enter a Valid User_ID
+2019-09-28 09:49:12,331 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 10:02:31,864 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 10:02:59,869 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 10:02:59,876 ERROR c.c.g.s.UserServiceImpl [main] Please Enter a Valid User_ID
+2019-09-28 10:03:49,874 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 10:03:49,885 ERROR c.c.g.s.UserServiceImpl [main] Phone Number Entered is Not Valid
+2019-09-28 10:04:40,484 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 10:04:40,484 ERROR c.c.g.s.UserServiceImpl [main] Please Enter a Valid User_ID
+2019-09-28 10:07:40,063 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 10:08:08,261 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 10:13:33,551 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 10:15:02,450 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 10:16:19,114 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 10:19:58,180 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 10:19:59,600 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-In
+2019-09-28 10:19:59,769 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 10:20:00,502 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 10:20:00,687 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 10:20:00,841 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 10:20:01,274 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 10:20:01,421 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 10:21:35,556 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 10:21:35,584 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 10:22:11,240 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 10:22:11,268 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 10:22:40,839 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 10:22:40,856 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 10:23:24,772 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 10:23:24,807 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 10:23:24,808 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 10:27:05,055 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 10:27:05,089 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 10:27:05,255 ERROR c.c.g.d.UserDaoImpl [main] Phone Number or Email has already been registered with Great Outdoor
+2019-09-28 10:28:24,990 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 10:28:25,013 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 10:28:25,013 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 14:26:29,490 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:26:29,532 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:26:29,585 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 14:28:01,799 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:28:01,822 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:28:02,005 ERROR c.c.g.d.UserDaoImpl [main] Phone Number or Email has already been registered with Great Outdoor
+2019-09-28 14:35:00,362 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:35:00,384 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:36:08,520 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:36:08,543 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:36:08,738 ERROR c.c.g.d.UserDaoImpl [main] Phone Number or Email has already been registered with Great Outdoor
+2019-09-28 14:36:37,647 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:36:37,673 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:41:03,112 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:41:03,133 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:41:03,140 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 14:45:22,318 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:45:22,341 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:45:22,350 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 14:48:38,253 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:48:38,275 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:48:38,282 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 14:48:38,447 ERROR c.c.g.d.UserDaoImpl [main] Phone Number or Email has already been registered with Great Outdoor
+2019-09-28 14:48:57,284 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:48:57,305 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:48:57,313 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 14:48:57,505 ERROR c.c.g.d.UserDaoImpl [main] Phone Number or Email has already been registered with Great Outdoor
+2019-09-28 14:49:44,274 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:49:44,296 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:49:44,302 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 14:49:55,163 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:49:55,184 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:49:55,192 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 14:49:55,477 ERROR c.c.g.d.UserDaoImpl [main] Phone Number or Email has already been registered with Great Outdoor
+2019-09-28 14:54:47,127 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:54:47,150 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:54:47,158 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 14:54:47,161 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 14:56:54,506 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:56:54,529 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:56:54,536 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 14:56:54,539 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 14:56:54,542 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 14:58:18,625 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:58:18,648 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:58:18,656 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 14:58:18,659 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 14:58:18,663 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 14:58:33,266 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:58:33,288 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:58:33,296 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 14:58:33,299 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 14:58:33,302 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 14:58:33,476 ERROR c.c.g.d.UserDaoImpl [main] Phone Number or Email has already been registered with Great Outdoor
+2019-09-28 14:59:45,743 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 14:59:45,765 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 14:59:46,396 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 14:59:46,414 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 14:59:46,422 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 15:05:29,646 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:05:29,669 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 15:05:29,676 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 15:05:29,679 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:05:29,682 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 15:05:29,686 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:09:34,608 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:09:34,656 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 15:09:34,677 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 15:09:34,690 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:09:34,702 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 15:09:34,706 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:12:22,616 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:12:22,638 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 15:12:22,645 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 15:12:22,648 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:12:22,651 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 15:12:22,653 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:12:31,818 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:12:31,842 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 15:12:31,849 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 15:12:31,853 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:12:31,856 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 15:12:31,859 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:12:32,040 ERROR c.c.g.d.UserDaoImpl [main] Phone Number or Email has already been registered with Great Outdoor
+2019-09-28 15:13:28,162 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:13:28,185 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 15:13:28,192 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 15:13:28,195 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:13:28,199 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 15:13:28,202 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:14:57,047 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:14:57,389 ERROR c.c.g.d.UserDaoImpl [main] This User already Exists
+2019-09-28 15:14:57,415 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 15:14:57,423 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 15:14:57,428 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:14:57,432 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 15:14:57,443 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:15:19,837 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:15:19,860 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 15:15:19,867 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 15:15:19,870 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:15:19,873 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 15:15:19,876 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:15:20,194 ERROR c.c.g.d.UserDaoImpl [main] This User already Exists
+2019-09-28 15:17:21,707 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:17:21,729 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 15:17:21,735 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 15:17:21,739 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:17:21,741 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 15:17:21,743 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:17:22,045 ERROR c.c.g.d.UserDaoImpl [main] This User already Exists
+2019-09-28 15:25:44,908 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:28:16,331 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:28:42,057 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:28:42,263 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-Out
+2019-09-28 15:29:13,934 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:29:43,001 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:29:58,537 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:29:58,733 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-Out
+2019-09-28 15:34:49,760 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:34:50,876 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-Out
+2019-09-28 15:35:20,055 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:37:32,227 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:37:33,281 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:37:59,584 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:38:00,723 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:39:18,234 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:39:19,361 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:39:19,508 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:40:34,602 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:40:35,708 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:40:35,848 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:42:36,196 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:42:37,233 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:42:37,371 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:44:11,132 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:44:11,329 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-Out
+2019-09-28 15:44:12,348 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-In
+2019-09-28 15:44:12,510 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:44:13,241 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 15:44:13,393 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:44:13,543 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:44:13,959 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 15:44:14,097 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:44:30,828 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:44:30,851 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 15:44:30,859 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 15:44:30,861 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:44:30,864 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 15:44:30,866 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 15:44:31,174 ERROR c.c.g.d.UserDaoImpl [main] This User already Exists
+2019-09-28 15:44:41,270 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:44:42,367 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:44:42,517 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:44:49,727 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:45:30,247 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-In
+2019-09-28 15:47:34,636 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:47:35,911 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-In
+2019-09-28 15:47:36,342 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-In
+2019-09-28 15:47:36,499 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:47:37,168 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 15:47:37,310 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:47:37,454 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:47:37,853 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 15:47:37,994 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:47:56,181 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:47:56,379 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-Out
+2019-09-28 15:47:57,348 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-In
+2019-09-28 15:47:57,757 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-In
+2019-09-28 15:47:57,896 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:47:58,562 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 15:47:58,700 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:47:58,846 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:47:59,225 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 15:47:59,355 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:48:27,236 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:48:27,413 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-Out
+2019-09-28 15:48:28,422 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-In
+2019-09-28 15:48:28,568 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:48:29,299 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 15:48:29,438 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:48:29,586 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:48:30,003 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 15:48:30,148 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:48:48,214 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:48:48,381 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-Out
+2019-09-28 15:48:49,345 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-In
+2019-09-28 15:48:49,480 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:48:50,152 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 15:48:50,289 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:48:50,420 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:48:50,816 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 15:48:50,954 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:49:33,813 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:49:34,004 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-Out
+2019-09-28 15:49:34,966 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-In
+2019-09-28 15:49:35,378 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-In
+2019-09-28 15:49:35,518 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:49:36,191 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 15:49:36,331 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:49:36,464 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:49:36,862 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 15:49:36,995 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:50:17,158 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:50:18,277 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:50:18,422 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:51:40,935 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 15:51:42,032 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:51:42,176 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 15:51:42,321 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-Out
+2019-09-28 16:09:00,824 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 16:09:01,487 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 16:09:21,203 ERROR c.c.g.d.GoAdminDaoImpl [main] Sales Representative is not registered.
+2019-09-28 16:09:41,486 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 16:09:41,667 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-Out
+2019-09-28 16:09:42,639 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-In
+2019-09-28 16:09:42,783 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 16:09:43,470 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 16:09:43,606 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 16:09:43,754 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 16:09:44,163 ERROR c.c.g.d.UserDaoImpl [main] Please Enter the Correct Password
+2019-09-28 16:09:44,306 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 16:10:18,581 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 16:10:18,608 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-28 16:10:18,616 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-28 16:10:18,624 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 16:10:18,630 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-28 16:10:18,634 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-28 16:10:18,947 ERROR c.c.g.d.UserDaoImpl [main] This User already Exists
+2019-09-28 16:10:38,163 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 16:10:39,249 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 16:10:39,398 ERROR c.c.g.d.UserDaoImpl [main] User Doesn't Exist.Please Enter Valid User_ID
+2019-09-28 16:10:39,542 ERROR c.c.g.d.UserDaoImpl [main] User Already Logged-Out
+2019-09-28 17:22:05,666 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-28 17:22:22,052 ERROR c.c.g.d.GoAdminDaoImpl [main] Sales Representative is not registered.
+2019-09-29 18:06:38,988 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-29 18:45:49,488 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-29 20:17:40,646 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-29 20:18:22,187 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-29 20:18:44,020 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-29 20:19:18,994 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-29 20:19:19,037 ERROR c.c.g.d.UserDaoImpl [main] Please Enter a Valid User_ID
+2019-09-29 20:19:19,049 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-29 20:19:19,060 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-29 20:19:19,065 ERROR c.c.g.d.UserDaoImpl [main] Only Retailer and Sales Representative can Register
+2019-09-29 20:19:19,070 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-29 20:19:23,315 ERROR c.c.g.d.UserDaoImpl [main] This User already Exists
+2019-09-29 20:20:46,424 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-29 20:24:39,669 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-29 20:25:42,094 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-29 20:26:06,805 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-29 20:26:07,539 ERROR c.c.g.d.UserDaoImpl [main] Phone Number or Email has already been registered with Great Outdoor
+2019-09-29 20:26:07,540 ERROR c.c.g.d.GoAdminDaoImpl [main] Error in registering product Master
+2019-09-29 20:26:07,553 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-29 20:26:07,553 ERROR c.c.g.d.GoAdminDaoImpl [main] Error in registering product Master
+2019-09-29 20:26:07,561 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-29 20:26:07,562 ERROR c.c.g.d.GoAdminDaoImpl [main] Error in registering product Master
+2019-09-29 20:26:07,568 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-29 20:26:07,568 ERROR c.c.g.d.GoAdminDaoImpl [main] Error in registering product Master
+2019-09-29 20:26:07,769 ERROR c.c.g.d.UserDaoImpl [main] Phone Number or Email has already been registered with Great Outdoor
+2019-09-29 20:26:07,769 ERROR c.c.g.d.GoAdminDaoImpl [main] Error in registering product Master
+2019-09-29 20:26:07,774 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-29 20:26:07,775 ERROR c.c.g.d.GoAdminDaoImpl [main] Error in registering product Master
+2019-09-29 20:31:01,297 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-29 20:31:03,315 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-29 20:31:03,316 ERROR c.c.g.d.GoAdminDaoImpl [main] Error in registering product Master
+2019-09-29 20:31:03,321 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-29 20:31:03,322 ERROR c.c.g.d.GoAdminDaoImpl [main] Error in registering product Master
+2019-09-29 20:31:03,327 ERROR c.c.g.d.UserDaoImpl [main] Email ID entered is not valid
+2019-09-29 20:31:03,328 ERROR c.c.g.d.GoAdminDaoImpl [main] Error in registering product Master
+2019-09-29 20:31:03,517 ERROR c.c.g.d.UserDaoImpl [main] Phone Number or Email has already been registered with Great Outdoor
+2019-09-29 20:31:03,518 ERROR c.c.g.d.GoAdminDaoImpl [main] Error in registering product Master
+2019-09-29 20:31:03,524 ERROR c.c.g.d.UserDaoImpl [main] Phone Number Entered is Not Valid
+2019-09-29 20:31:03,525 ERROR c.c.g.d.GoAdminDaoImpl [main] Error in registering product Master
+2019-09-29 20:31:23,561 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-29 22:00:48,859 DEBUG c.c.g.u.DbConnection [main] Database get Connected
+2019-09-29 22:01:46,711 DEBUG c.c.g.u.DbConnection [main] Database get Connected
